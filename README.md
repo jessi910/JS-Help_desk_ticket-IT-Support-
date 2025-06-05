@@ -1,1 +1,1 @@
-# Helpdeskticket
+# Helpdeskticket•	Submitted a help desk ticket for an office printer malfunction and identified a paper jam as the root cause. Attempted basic troubleshooting steps, including clearing the jam and restarting the device. Documented all actions taken and communicated the issue clearly to IT support for timely resolution.												                                                                                              
