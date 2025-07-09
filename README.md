@@ -1,9 +1,15 @@
 🧾 Help Desk Ticket Log – Printer Paper Jam
+
 🎫 Ticket ID: HD-20250310-001
+
 📅 Date/Time Reported: March 10, 2025 – 11:35 AM
+
 👤 Reported By: John Smith
+
 🏢 Department: Human Resources
+
 🛠️ Issue Type: Hardware – Printer
+
 ⚠️ Priority Level: Medium
 
 📝 Issue Summary
