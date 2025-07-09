@@ -55,6 +55,9 @@ The paper jam was resolved by manually clearing the obstruction and restarting t
 🗂️ About This Ticket
 This help desk ticket demonstrates the ability to follow a structured troubleshooting process to resolve a common hardware issue. The technician conducted a root cause analysis, applied safe handling practices, documented all steps, and ensured the end user was supported through resolution.
 
+🗂️Document
+Ticket attached
+
 
 
 
