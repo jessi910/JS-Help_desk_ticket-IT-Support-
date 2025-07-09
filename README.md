@@ -1,50 +1,52 @@
-# Help Desk Ticket
+🧾 Help Desk Ticket Log – Printer Paper Jam
+🎫 Ticket ID: HD-20250310-001
+📅 Date/Time Reported: March 10, 2025 – 11:35 AM
+👤 Reported By: John Smith
+🏢 Department: Human Resources
+🛠️ Issue Type: Hardware – Printer
+⚠️ Priority Level: Medium
 
-Ticket ID: HD-20250310-001
+📝 Issue Summary
+An employee from the Human Resources department reported that the office printer was unable to print due to continuous paper jams.
 
-Date/Time Reported: March 10, 2025 – 11:35 AM
+🔍 Troubleshooting Steps
+1. Issue Identification
 
-Reported By: John Smith
+Observed repeated paper jams during printing attempts.
 
-Department: Human Resource Department
+Confirmed that paper was consistently getting stuck inside the printer.
 
-Issue Type: Hardware – Printer
+2. Initial Troubleshooting
 
-Priority Level: Medium
+Powered off and unplugged the printer for safety.
 
-Issue Summary:
-User reported the office printer was unable to print due to repeated paper jams.
+Inspected all accessible components: input/output tray, rear access panel, and top cover.
 
-Steps Taken:
+Carefully removed jammed paper, ensuring no pieces were left behind.
 
-Issue Identified
+Manually rotated internal rollers to detect any hidden obstructions.
 
-Observed paper continuously getting stuck during printing.
+3. Reconnection & Reset
 
-Suspected a paper jam issue.
+Reconnected power and turned the printer back on.
 
-Initial Troubleshooting
+Allowed the device to reset internal components.
 
-Powered off and unplugged the printer.
+4. Functionality Check
 
-Inspected input/output tray, rear access panel, and top cover.
+Printed a test page successfully.
 
-Removed visible jammed paper, ensuring no torn pieces remained.
+Verified that the printer was operating normally with no further error messages.
 
-Manually rotated rollers to check for wrapped paper.
+✅ Resolution
+The paper jam was resolved by manually clearing the obstruction and restarting the printer. No additional issues were found. Printer is now fully operational.
 
-Reconnection
+📌 Ticket Status: Closed
+👩‍💻 Technician: Jessica Stovall
 
-Plugged the printer back in and powered it on to reset internal components.
+🗂️ About This Ticket
+This help desk ticket demonstrates the ability to follow a structured troubleshooting process to resolve a common hardware issue. The technician conducted a root cause analysis, applied safe handling practices, documented all steps, and ensured the end user was supported through resolution.
 
-Functionality Confirmation
 
-Successfully printed a test page.
 
-Confirmed the printer is functioning correctly with no errors.
 
-Resolution:
-Paper jam resolved through manual inspection and clearing. Printer fully operational.
-
-Ticket Status: Closed
-Technician: Jessica Stovall
