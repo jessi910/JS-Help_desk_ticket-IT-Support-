@@ -12,8 +12,10 @@
 
 ⚠️ Priority Level: Medium
 
+
 📝 Issue Summary
 An employee from the Human Resources department reported that the office printer was unable to print due to continuous paper jams.
+
 
 🔍 Troubleshooting Steps
 1. Issue Identification
